@@ -71,18 +71,90 @@ h1, h2, h3, h4, h5 {
 	display:inline-block;
 	
 }
+nav{
+	margin-left: 5%;
+}
 nav a {
 	
-	margin:0 auto;
 	margin-bottom:5%;
 	margin-top:3%;
-	width:14%;
+	padding-right: 2%;
+	width:13%;
 	display:inline-block;
+	
+	
 	
 }
 
-h1{
-	
-	display:inline-block;
-	
+
+.logo{
+	margin:0 auto;
+	width:10%;
 }
+
+button{
+	font-size:50px;
+	border:solid black 1px;
+}
+
+header{
+	border-bottom:solid 2px;
+}
+.heading{
+	margin-bottom:10%;
+	width:50%;
+	display:inline-block;
+	text-align: center;
+	font-size: 80px;
+}
+
+.codepic{
+	text-align: right;
+	display:inline-block;
+}
+.features{
+	width:50%;
+    display:block;
+    float: left;
+}
+.about{
+	width:50%;
+    display:block;
+    float: right;
+}
+
+.middle-img{
+	display:block;
+	margin:0 auto;
+	margin-top:10%;
+	margin-bottom:10%;
+}
+
+
+.services{width:33%;
+    display:block;
+    float: left;
+}
+
+.product{
+	width:33%;
+   display: inline-block;
+    
+}
+
+.vision{
+	width:33%;
+	display:block;
+	float:right;
+}
+.contacts{
+	margin-bottom:10%;
+}
+
+footer {
+	background-color: #FFF;
+	position:fixed;
+	bottom: 0px;
+	width: 100%;
+	text-align: center;
+	}
